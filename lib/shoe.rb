@@ -12,3 +12,4 @@ class Shoe
     "new" = Shoe.condition
   end
 end
+end
